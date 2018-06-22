@@ -1,12 +1,55 @@
+
 <!DOCTYPE html>
 <html>
-   <head>
-      <title>Proyecto final
-      </title>
-   </head>
-   <body>
+  <head>
+    <meta charset="utf-8">
+    <meta name="description" content="Página de ejemplo del MOOC de LINUX - UPM.">
+    <!--Sustituir por los datos del alumno-->
+    <meta name="author" content="Carlos" >
 
-Hola, mi nombre es Carlos Ortiz, tengo 38 a&ntildeos de edad y soy peruano.
-      
-   </body>
+    <!--Sustituir por los datos del alumno-->
+    <title>Carlos Ortiz Bao</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="container header-bar">
+      <!--Sustituir por los datos del alumno-->
+      <h3>Carlos Ortiz Bao <span><img style="width: 214px; height: 164px;" class='img-circle' alt="Nombre y Apellido(s)" src="img/foto.png" align="right"></span></h3>
+      <p>
+        <!--Sustituir por los datos del alumno-->
+        Analista de sistemas<br>
+        Tecnolog&iacute;a<br>
+        Atento
+      </p>
+
+      <!--Sustituir por los datos del alumno-->
+      <a href="http://github.com/ceobstudy" target="blank"><img src="img/github-icon.png" width=25></a>
+    </div>
+
+    <div class="container">
+      <div class='row'>
+        <div class='col-sm-8'>
+          <br>
+          <p>Hola soy de nacionalidad peruana. Adem&aacute;s, he estudiado un MOOC en Miriadax "Desarrollo en HTML5, CSS y Javascript de Apps Web, Android".  </p>
+          
+          <p>Utilizo ProjectLibre para la gesti&oacute;n de proyectos. Para la codificaci&oacute;n uso: j2ee (jsf, jpa, restful, etc) y C#. En BD: SQL Server y MySQL.</p>
+
+          <h3>Cursos</h3>
+          <table class='table table-striped'>
+            <tr><td><a href="https://www.miriadax.net" target="blank">Introducción a Linux como entorno de desarrollo de sistemas software</a>.</td></tr>
+            <tr><td><a href="https://www.miriadax.net" target="blank">Desarrollo en HTML5, CSS y Javascript de Apps Web, Android</a>.</td></tr>
+          </table>
+        </div>
+      </div>
+
+      <footer class="footer">
+        <!--Sustituir por los datos del alumno-->
+        <p>&copy; Carlos Ortiz Bao - 2018</p>
+      </footer>
+
+    </div>
+  </body>
 </html>
