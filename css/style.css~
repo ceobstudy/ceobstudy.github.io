@@ -124,7 +124,7 @@ body {
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px;
-  color: #2222AA; font-size: 16px; font-family: 'serif';
+  color: #222288; font-size: 16px; font-family: 'serif';
 }
 
 @media (min-width: 768px) {
