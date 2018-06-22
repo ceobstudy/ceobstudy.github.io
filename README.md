@@ -1,2 +1,2 @@
-# ceobstudy.github.io
-Pagina de personal basica
+# web
+Repositorio de código con ejemplo de página web sencilla pero eficaz.
